@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jessica Robilotti.  I am a Master's student in Information Science- Data Analytics</h1>
+<h1>Hello, I'm Jessica Robilotti.  I am a master's student in Information Science- Data Analytics</h1>
 
 <h2>Data Analytics Projects:</h2>
 
