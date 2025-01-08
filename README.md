@@ -1,7 +1,20 @@
-## Hi there 👋
+<h1>Hello, I'm Jessica Robilotti.  I am a Master's student in Information Science- Data Analytics</h1>
+
+<h2>Data Analytics Projects:</h2>
+
+- EMS Calls Data
+- Insurance Payment Phone Calls
+- Fake News Data
+
+
+<h2>Course Certificates</h2>
+
+-
+
+
 
 <!--
-**JessRobilotti/JessRobilotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
