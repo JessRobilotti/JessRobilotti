@@ -4,12 +4,13 @@
 
 - [EMS Calls Data](https://github.com/JessRobilotti/EMS_Calls_Data/tree/main) 
 - [Insurance Payment Phone Calls](https://github.com/JessRobilotti/InsurancePaymentCalls)
-- Fake News Data
+- [Fake News Data](https://github.com/JessRobilotti/FakeNewsData)
 
 
 <h2>Course Certificates</h2>
 
--
+- [Coursera: Google-Foundations: Data, Data, Everywhere](https://imgur.com/4J9Hqb4)
+- 
 
 
 
