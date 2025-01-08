@@ -9,22 +9,19 @@
 
 <h2>Course Certificates</h2>
 
-- 
-- 
+- Coursera: Google- Foundations: Data, Data, Everywhere
+- Coursera: Google- Ask Questions to Make Data-Driven Decisions
+- Coursera: Google- Prepare for Data Exploration
+- Coursera: Google- Process Data from Dirty to Clean
+- Coursera: IBM- Python for Data Science, AI & Development
+- Coursera: IBM- Introduction to Artifical Intelligence (AI)
+- Coursera: IBM- Generative AI: Prompt Engineering Basics
+- Coursera Project Network: Getting Started with Power BI Desktop
+- Kaggle: Data Cleaning
+- Kaggle: Intro to Machine Learning
+- Kaggle: Python
+- Kaggle: Pandas
+- Kaggle: Intro to SQL
+- Texas A&M Engineering Extension Service: Information Security Basics
+- Esri: ArcGIS Online Basics
 
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
