@@ -14,7 +14,7 @@
 - Coursera: Google- Prepare for Data Exploration
 - Coursera: Google- Process Data from Dirty to Clean
 - Coursera: IBM- Python for Data Science, AI & Development
-- Coursera: IBM- Introduction to Artifical Intelligence (AI)
+- Coursera: IBM- Introduction to Artificial Intelligence (AI)
 - Coursera: IBM- Generative AI: Prompt Engineering Basics
 - Coursera Project Network: Getting Started with Power BI Desktop
 - Kaggle: Data Cleaning
