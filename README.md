@@ -9,7 +9,7 @@
 
 <h2>Course Certificates</h2>
 
-- [Coursera: Google-Foundations: Data, Data, Everywhere](https://imgur.com/4J9Hqb4)
+- 
 - 
 
 
