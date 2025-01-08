@@ -3,7 +3,7 @@
 <h2>Data Analytics Projects:</h2>
 
 - [EMS Calls Data](https://github.com/JessRobilotti/EMS_Calls_Data/tree/main) 
-- Insurance Payment Phone Calls
+- [Insurance Payment Phone Calls](https://github.com/JessRobilotti/InsurancePaymentCalls/blob/main/README.md)
 - Fake News Data
 
 
